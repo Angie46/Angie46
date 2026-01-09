@@ -6,7 +6,7 @@ Soy una apasionada del desarrollo en busca de nuevos retos. Actualmente estoy en
 - 🔭 Actualmente trabajando en: **Proyecto Warmi**
 - 🌱 Aprendiendo: Profundizando en lógica de programación y nuevas librerías.
 - 💬 Pregúntame sobre: Python, CSS o mis proyectos básicos.
-- 📫 Cómo contactarme: [Aquí puedes poner tu LinkedIn o correo]
+- 📫 Cómo contactarme: :)
 
 ---
 
